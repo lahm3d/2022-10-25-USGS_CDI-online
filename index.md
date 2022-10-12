@@ -17,7 +17,6 @@ instructor: ["Labeeb Ahmed", "Saira Haider"] # boxed, comma-separated list of in
 helper: ["Peder Engelstad"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["lahmed@usgs.gov","shaider@usgs.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: [https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop](202210_Software_Carpentry_Notes.docx) # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
