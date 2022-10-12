@@ -16,7 +16,8 @@ enddate: 2022-10-26        # machine-readable end date for the workshop in YYYY-
 instructor: ["Labeeb Ahmed", "Saira Haider"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Peder Engelstad"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["lahmed@usgs.gov","shaider@usgs.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: [https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop](202210_Software_Carpentry_Notes.docx) # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://doimspp.sharepoint.com/:w:/s/CommunityforDataIntegration/EZ6dbXRSjL9Hn1jHeCzE5CgBeEKi5-GVqEOJx_cPWOROuA?e=XCTX81 # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
