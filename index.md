@@ -332,7 +332,7 @@ change the value of `carpentry` to `incubator`.
 <h2 id="pre-workshop-tasks">Pre-Workshop Tasks</h2>
 Please complete the following tasks before the workshop starts:
 
-* Install R and R-Studio (see <a href"https://datacarpentry.org/geospatial-workshop/setup.html">Option A: Local Installation</a>)
+* Install R and R-Studio (see under [Option A: Local Installation](https://datacarpentry.org/geospatial-workshop/setup.html))
 * Please review [Introduction to Geospatial Concepts](https://datacarpentry.org/geospatial-workshop/setup.html), if you are new to working with geospatial data and analysis.
 
 
