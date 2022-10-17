@@ -332,8 +332,13 @@ change the value of `carpentry` to `incubator`.
 <h2 id="pre-workshop-tasks">Pre-Workshop Tasks</h2>
 Please complete the following tasks before the workshop starts:
 
-* Install R and R-Studio (see under [Option A: Local Installation](https://datacarpentry.org/geospatial-workshop/setup.html))
-* Please review [Introduction to Geospatial Concepts](https://datacarpentry.org/geospatial-workshop/setup.html), if you are new to working with geospatial data and analysis.
+* Software pre-requisites:
+  * Install R, R-Tools and [R Studio](https://www.rstudio.com/products/rstudio/download/#download)
+  * R and R-Tools can be installed using USGS Software Center without an administrative account, but R-Studio needs an admin privileges so please contact your IT department. It will be ideal to have all the software installed before our introductory workshop meeting on October 24th, 2022.
+* Course expectation is that partcipants will have familiarity working with geospatial data. If you are not familiar, or need a refresher please complete self-paced 
+[Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/) lesson which takes about an hour to complete.
+
+Please review [Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/), if you are new to working with geospatial data and analysis.
 
 
 {% comment %}
